@@ -1,1 +1,1 @@
-# TicTacToe
+Minimax Algorithm which is adversial search algorithm is used to implement this multi-agent game. GUI Interface is made for users to play the game with the machine. Then project is converted to exe file using python library auto-py-to-exe.
